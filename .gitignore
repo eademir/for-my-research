@@ -1,0 +1,9 @@
+/node_modules
+viruses.zip
+/viruses
+/virusesPNG
+/virusesPNGGreyscale
+package-lock.json
+index.json
+colouredbin2png
+bin2png

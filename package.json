@@ -1,0 +1,21 @@
+{
+  "name": "virusgetter",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "build:watch": "npx tsc -w",
+    "run:watch": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "@zip.js/zip.js": "^2.7.51",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}

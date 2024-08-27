@@ -1,0 +1,8 @@
+# coloured png output 
+gcc colouredbin2png.c lodepng.c -o colouredbin2png
+
+# greyscale png output
+gcc bin2png.c lodepng.c -o bin2png 
+
+
+if you try to compile and get arm64 error, try to build the bin2png code with the lodepng.c
