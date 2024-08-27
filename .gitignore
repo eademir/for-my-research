@@ -7,3 +7,5 @@ package-lock.json
 index.json
 colouredbin2png
 bin2png
+/.idea
+.DS_Store
