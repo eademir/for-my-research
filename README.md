@@ -173,10 +173,6 @@ By following these steps, you can safely run the project in a controlled environ
 ## License
 This project is licensed under the MIT License.
 
-MIT License
-
-Copyright (c) 2024 @eademir
-
 ```plaintext
 MIT License
 
